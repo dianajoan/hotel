@@ -1,9 +1,4 @@
-# Laravel 5.5 based system for hotel managers to manage room bookings
-
-It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
-Hotel Booking is all generated with __QuickAdmin__ except for some custom code for Room Search.
-
-![Hotel_Booking screenshot](https://laraveldaily.com/wp-content/uploads/2018/11/hotel-booking-demo.png)
+# Hotel based system for hotel managers to manage room bookings
 
 ## How to use
 
@@ -16,14 +11,9 @@ Hotel Booking is all generated with __QuickAdmin__ except for some custom code f
 
 ## License
 
-Basically, feel free to use and re-use any way you want.
+The source code is released under the MIT License.
 
----
+### Development
 
-## More from our LaravelDaily Team
-
-- Read our [Daily Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Check out our adminpanel generator QuickAdminPanel: [Laravel version](https://quickadminpanel.com) and [Vue.js version](https://vue.quickadminpanel.com)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+This is developed by [Diana Joanita Nakyazze](mailto:dianajoanita900@gmail.com)
+Powered by ```anitanad.wordpress.com```
